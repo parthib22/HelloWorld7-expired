@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/app/src/main/res/drawable-v24/ic_logout_exitbut.xml" value="0.155" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.155" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/drawable/ic_photo_profile.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/drawable/ic_profile_sign.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/drawable/nav_shape.xml" value="0.1025" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/drawable/profile_shape.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/drawable/sign_shape.xml" value="0.155" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/drawable/view_shape.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/layout/activity_bottom_nav.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/layout/activity_main.xml" value="0.27025641025641023" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/layout/activity_place_detail.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/layout/fragment_dashboard.xml" value="0.2351851851851852" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/layout/fragment_home.xml" value="0.22236286919831225" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/layout/fragment_logout.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/layout/place_ui.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/layout/profile_options.xml" value="0.6" />
+        <entry key="..\:/AndroidProjects/app/src/main/res/menu/bottom_nav_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

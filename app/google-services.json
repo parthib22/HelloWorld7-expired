@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76573712868",
+    "project_id": "learn-n-fun-c3fe5",
+    "storage_bucket": "learn-n-fun-c3fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76573712868:android:4f7ce1295c605fb2b4a7f1",
+        "android_client_info": {
+          "package_name": "com.parthib.androidlearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76573712868-ejkijv4hg4hm1ev7egrd9un2msi7iso6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSU851Vjn-EZ1KsG32ElTo8zHggBWHOOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76573712868-ejkijv4hg4hm1ev7egrd9un2msi7iso6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
