@@ -48,18 +48,19 @@
         android:id="@+id/profile_image"
         android:src="@mipmap/ic_launcher_al"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="50dp"
         app:civ_border_width="5dp"
         app:civ_border_color="?colorPrimary"/>
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:fabSize="mini"
+        app:fabSize="normal"
         android:backgroundTint="?colorOnPrimary"
         android:layout_alignBottom="@id/profile_image"
         android:layout_alignEnd="@id/profile_image"
-        android:src="@drawable/ic_photo_profile"
+        android:src="@drawable/ic_addphoto_profilefr"
+        android:tint="@color/white"
         android:contentDescription="@string/profile"
         android:id="@+id/fab"/>
 
