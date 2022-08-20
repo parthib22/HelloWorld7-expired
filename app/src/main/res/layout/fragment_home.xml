@@ -5,14 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.home.HomeFragment"
-    android:background="?colorPrimary">
+    android:background="?colorSecondary">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/place_list_view"
         android:layout_width="match_parent"
-        android:layout_height="350dp"
+        android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:background="?colorPrimary"
+        android:background="@drawable/main_card"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -29,6 +29,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/place_list_view"
         app:spanCount="2"
-        android:background="@drawable/sign_shape"
+        android:background="?colorSecondary"
         />
 </androidx.constraintlayout.widget.ConstraintLayout>
